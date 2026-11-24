@@ -1,4 +1,4 @@
-# FutureTr@ce: Sanskriti Intelligence Platform
+# FutureTrace: Sanskriti Intelligence Platform
 
 FutureTr@ce is a next-generation **Agentic Discovery Engine** designed for venture capitalists, industry analysts, and technology scouts. It transforms passive data into "decision-grade intelligence" by using multi-hop graph reasoning to uncover hidden technology intersections and market opportunities.
 
